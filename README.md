@@ -2,9 +2,8 @@
 
 - Decision Tree algorithm implementation from scratch
 
-
 ## How to use:
 
 - Install requirements
-- Run cells subsequently
+- Run cells sequentially
 
